@@ -8,19 +8,25 @@ Este proyecto corresponde al **proyecto final de análisis de datos**, cuyo obje
 
 house-eda-dashboard/
 ├─ data/
+
 │ ├─ raw/
 │ │ ├─ 1_houses_data.csv # Dataset de propiedades en bruto
 │ │ ├─ 2_finance_data.csv # Dataset financiero en bruto
 │ │ └─ README.md # Fuentes o URLs de datos
+
 │ └─ processed/
 │ ├─ final_house_dataset.xlsx # Dataset combinado
 │ └─ final_house_dataset_clean.csv # Dataset limpio tras IQR
+
 ├─ notebooks/
 │ └─ EDA.ipynb # Análisis exploratorio de datos (Python)
+
 ├─ dashboard/
 │ └─ Dashboard.pbix # Dashboard en Power BI
+
 ├─ reports/
 │ └─ EDA.pdf # Informe final del análisis
+
 ├─ README.md # Este archivo
 └─ requirements.txt # Dependencias de Python
 
