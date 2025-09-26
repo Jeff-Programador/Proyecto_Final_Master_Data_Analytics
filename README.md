@@ -1,5 +1,8 @@
 # 🏡 Proyecto Final – Análisis de Mercado Inmobiliario
 
+https://drive.google.com/file/d/1N1VEpjbOR-RRLberhkizYP0Nf0g2FgmA/view?usp=sharing
+link de los archivos, comprimidos
+
 Este proyecto corresponde al **proyecto final de análisis de datos**, cuyo objetivo ha sido realizar un **EDA (Exploratory Data Analysis)** y un **Dashboard interactivo** en Power BI sobre un dataset inmobiliario.
 
 ---
